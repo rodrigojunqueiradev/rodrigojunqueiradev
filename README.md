@@ -8,6 +8,8 @@ Trabalho como Analista de Dados, Cientista de Dados e Analista de BI.
 
 Clique neste [link](https://rodrigojunqueiradev.github.io/) para acessar meu portfólio: https://rodrigojunqueiradev.github.io/
 
+Abaixo destaco alguns projetos e também o calendário de contribuição para acompanhar meu estudos!
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rodrigojunqueiradev&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## 🛠️ Principais tecnologias e ferramentas que utilizo:
@@ -49,6 +51,8 @@ I'm a Data Professional.
 I work as a Data Analyst, Data Scientist, and BI Analyst.
 
 Click this [link](https://rodrigojunqueiradev.github.io/) to access my portfolio: https://rodrigojunqueiradev.github.io/
+
+Here, I highlight some projects and also the contribution calendar to track my studies!
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rodrigojunqueiradev&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
