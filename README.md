@@ -2,7 +2,7 @@
 
 Hi, I'm Rodrigo.  
 I'm a Data Professional.  
-I work as a Data Analyst, Data Scientist, and BI Analyst.
+I work as a Data Analyst, Data Scientist and BI Analyst.
 
 Click this [link](https://rodrigojunqueiradev.github.io/) to access my portfolio: https://rodrigojunqueiradev.github.io/
 
