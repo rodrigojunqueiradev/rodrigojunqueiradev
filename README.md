@@ -1,14 +1,12 @@
 # 👋 Hello World
 
 Hi, I'm Rodrigo.  
-I'm a Data Professional.  
-I work as a Data Analyst and Data Scientist.
+I'm a Bilingual Data Professional.  
+We can communicate in both Portuguese and English.
 
 Click this [link](https://rodrigojunqueiradev.github.io/) to access my portfolio: https://rodrigojunqueiradev.github.io/
 
 Here, I highlight some projects and also the contribution calendar to track my studies!
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rodrigojunqueiradev&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## 🛠️ Technologies and Tools:
 
@@ -18,12 +16,11 @@ Here, I highlight some projects and also the contribution calendar to track my s
 - NumPy
 - Seaborn
 - SQL
+- NoSQL
 - Power BI
-- Looker
-- R
-- Excel
+- Looker Studio
+- Advanced Excel
 - VSCode
-- R Studio
 - Anaconda
 - Jupyter Notebook
 
