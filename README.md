@@ -1,8 +1,10 @@
 # 👋 Hello World
 
 Hi, I'm Rodrigo.  
-I'm a Bilingual Data Professional.  
-We can communicate in both Portuguese and English.
+
+I am a Bilingual Data Analyst (English/Portuguese) with 3+ years of experience transforming complex data into high-impact business solutions.  
+
+Currently working at Korn Ferry on behalf of Google, I focus on delivering end-to-end reporting that drives strategic decision-making and generates business value.
 
 Click this [link](https://rodrigojunqueiradev.github.io/) to access my portfolio: https://rodrigojunqueiradev.github.io/
 
@@ -10,19 +12,20 @@ Here, I highlight some projects and also the contribution calendar to track my s
 
 ## 🛠️ Technologies and Tools:
 
-- Python
-- Pandas
-- Matplotlib
-- NumPy
-- Seaborn
 - SQL
+- Python
 - NoSQL
 - Power BI
-- Looker Studio
+- Looker Studio Pro
 - Advanced Excel
+- Advabced Google Sheets
+- DAX
+- VBA
+- AppScript
+- Google BigQuery
+- Google PLX
 - VSCode
-- Anaconda
-- Jupyter Notebook
+- Figma
 
 ## 📬 Contact - Get in touch
 
