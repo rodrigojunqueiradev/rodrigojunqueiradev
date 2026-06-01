@@ -1,54 +1,66 @@
-# 👋 Hello World
+# 👋 Hello, I'm Rodrigo.
 
-Hi, I'm Rodrigo.  
+Bilingual Data Analyst (EN/PT) with 3+ years turning messy data into decisions that actually matter.  
+Day job: Korn Ferry × Google — end-to-end recruitment reporting for LATAM.  
+Side mission: building **Élan Labs**, an AI company focused on practical automation for small businesses in Brazil.
 
-I am a Bilingual Data Analyst (English/Portuguese) with 3+ years of experience transforming complex data into high-impact business solutions.  
+---
 
-Currently working at Korn Ferry on behalf of Google, I focus on delivering end-to-end reporting that drives strategic decision-making and generates business value.
+## 🔭 Currently working on
 
-Click this [link](https://rodrigojunqueiradev.github.io/) to access my portfolio: https://rodrigojunqueiradev.github.io/
+- **Lucky** — an AI agent for small businesses (WhatsApp-first, built on LLM APIs + automation pipelines)
+- Productizing AI workflows into a tiered SaaS offering through **Élan Labs**
+- Recruitment analytics pipelines for LATAM at Korn Ferry × Google
 
-Here, I highlight some projects and also the contribution calendar to track my studies!
+## 🌱 Currently learning
 
-## 🛠️ Technologies and Tools:
+- LLM orchestration: prompt engineering, RAG, tool use, and multi-agent systems
+- LiteLLM for model routing and cost optimization across API providers
+- AI product design: translating agent capabilities into real, monetizable products
 
-- SQL
-- Python
-- NoSQL
-- Power BI
-- Looker Studio Pro
-- Advanced Excel
-- Advabced Google Sheets
-- DAX
-- VBA
-- AppScript
-- Google BigQuery
-- Google PLX
-- VSCode
-- Figma
+## 👯 Looking to collaborate on
 
-## 📬 Contact - Get in touch
+- AI agent projects targeting real operational problems (not demos)
+- Data products with clear business impact
+- Open-source tooling around LLM workflows, WhatsApp integrations, or BI automation
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-junqueira/)
+## 💬 Ask me about
 
-- [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eurodrigojunqueira@gmail.com)
+- SQL, Python, Power BI, Looker Studio — and how to actually use them together
+- Building data pipelines that non-technical stakeholders can trust
+- AI agents for small businesses: what works, what's hype, and what's worth building
+- Recruitment analytics at scale (LATAM context)
 
-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://rodrigojunqueiradev.github.io/)
+## 🤔 Looking for help with
 
-Mischief Managed. <br>
-Made by ♡ for Rodrigo Junqueira
+- Connecting with other builders working on AI products for underserved markets
+- Distribution strategies for B2B SaaS in Brazil
 
-<!--
-**rodrigojunqueiradev/rodrigojunqueiradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ Fun fact
 
-Here are some ideas to get you started:
+I taught high school math before pivoting to data. Turns out explaining neural networks isn't that different from explaining fractions — the resistance is the same, the curiosity just needs the right hook.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Data & Analytics**  
+SQL · Python · Power BI · Looker Studio Pro · DAX · Google BigQuery · Google PLX · Advanced Excel · Google Sheets · VBA · Apps Script
+
+**AI & Automation**  
+LLM APIs (OpenAI · Anthropic · Google Gemini) · LiteLLM · Prompt Engineering · WhatsApp automation pipelines
+
+**Dev & Design**  
+VSCode · Git · Figma · NoSQL
+
+---
+
+## 📬 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-junqueira/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eurodrigojunqueira@gmail.com)
+
+---
+
+*Mischief Managed.*  
+Made with ♡ by Rodrigo Junqueira
