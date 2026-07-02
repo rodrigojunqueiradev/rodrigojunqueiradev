@@ -1,16 +1,16 @@
 # 👋 Hello, I'm Rodrigo.
 
 Bilingual Data Analyst (EN/PT) with 3+ years turning messy data into decisions that actually matter.  
-Day job: Korn Ferry × Google — end-to-end recruitment reporting for LATAM.  
-Side mission: building **Élan Labs**, an AI company focused on practical automation for small businesses in Brazil.
+Day job: Bilingual Reporting Analyst at Korn Ferry, supporting Google (Google xWF) — end-to-end recruitment reporting for LATAM region.  
+Side mission: building **Élan Labs**, an AI company focused on practical automation for businesses in Brazil.
 
 ---
 
 ## 🔭 Currently working on
 
-- **Lucky** — an AI agent for small businesses (WhatsApp-first, built on LLM APIs + automation pipelines)
+- Developing white-label AI Agent
 - Productizing AI workflows into a tiered SaaS offering through **Élan Labs**
-- Recruitment analytics pipelines for LATAM at Korn Ferry × Google
+- Recruitment analytics pipelines for LATAM at Korn Ferry supporting Google
 
 ## 🌱 Currently learning
 
