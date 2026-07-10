@@ -1,66 +1,50 @@
 # 👋 Hello, I'm Rodrigo.
 
-Bilingual Data Analyst (EN/PT) with 3+ years turning messy data into decisions that actually matter.  
-Day job: Bilingual Reporting Analyst at Korn Ferry, supporting Google (Google xWF) — end-to-end recruitment reporting for LATAM region.  
-Side mission: building **Élan Labs**, an AI company focused on practical automation for businesses in Brazil.
+Data Analyst & AI Agent Developer (EN/PT-BR) with 3+ years turning messy data into decisions that actually matter.
+Day job: Bilingual Reporting Analyst at Korn Ferry, supporting Google: end-to-end data reporting and automation for the LATAM region.
 
 ---
 
 ## 🔭 Currently working on
 
-- Developing white-label AI Agent
-- Productizing AI workflows into a tiered SaaS offering through **Élan Labs**
-- Recruitment analytics pipelines for LATAM at Korn Ferry supporting Google
+- Portfolio projects: end-to-end data analysis, AI agents grounded in real data, and automation toolkits (pinned below)
+- Automating reporting workflows with Google Apps Script and LLMs
 
 ## 🌱 Currently learning
 
 - LLM orchestration: prompt engineering, RAG, tool use, and multi-agent systems
-- LiteLLM for model routing and cost optimization across API providers
-- AI product design: translating agent capabilities into real, monetizable products
-
-## 👯 Looking to collaborate on
-
-- AI agent projects targeting real operational problems (not demos)
-- Data products with clear business impact
-- Open-source tooling around LLM workflows, WhatsApp integrations, or BI automation
+- Turning AI capabilities into reliable, production-grade workflows
 
 ## 💬 Ask me about
 
-- SQL, Python, Power BI, Looker Studio — and how to actually use them together
-- Building data pipelines that non-technical stakeholders can trust
-- AI agents for small businesses: what works, what's hype, and what's worth building
-- Recruitment analytics at scale (LATAM context)
-
-## 🤔 Looking for help with
-
-- Connecting with other builders working on AI products for underserved markets
-- Distribution strategies for B2B SaaS in Brazil
+- SQL, Python, Power BI, Looker Studio, and how to actually use them together
+- Building data pipelines and dashboards that non-technical stakeholders can trust
+- AI agents grounded in real data: what works, what's hype, and what's worth building
 
 ## ⚡ Fun fact
 
-I taught high school math before pivoting to data. Turns out explaining neural networks isn't that different from explaining fractions — the resistance is the same, the curiosity just needs the right hook.
+I taught high school math before pivoting to data. Turns out explaining neural networks isn't that different from explaining fractions: the resistance is the same, the curiosity just needs the right hook.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Data & Analytics**  
-SQL · Python · Power BI · Looker Studio Pro · DAX · Google BigQuery · Google PLX · Advanced Excel · Google Sheets · VBA · Apps Script
+**Data & Analytics**
+SQL · Python (pandas) · Power BI · Looker Studio Pro · DAX · Google BigQuery · Advanced Excel · Google Sheets · VBA · Google Apps Script
 
-**AI & Automation**  
-LLM APIs (OpenAI · Anthropic · Google Gemini) · LiteLLM · Prompt Engineering · WhatsApp automation pipelines
+**AI & Automation**
+LLM APIs (Anthropic Claude · Google Gemini) · Prompt Engineering · RAG · n8n
 
-**Dev & Design**  
-VSCode · Git · Figma · NoSQL
+**Dev & Design**
+VS Code · Git · Figma
 
 ---
 
 ## 📬 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-junqueira/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eurodrigojunqueira@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rodrigo-junqueira/) · [Email](mailto:eurodrigojunqueira@gmail.com)
 
 ---
 
-*Mischief Managed.*  
+*Mischief Managed.*
 Made with ♡ by Rodrigo Junqueira
