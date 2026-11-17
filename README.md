@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rodrigo.
 
-Data Analyst & AI Agent Developer (EN/PT-BR) with 3+ years turning messy data into decisions that actually matter.
+Data Analyst & AI Agent Developer (EN/PT-BR) with 4+ years turning messy data into decisions that actually matter.
 Day job: Bilingual Reporting Analyst at Korn Ferry, supporting Google: end-to-end data reporting and automation for the LATAM region.
 
 ---
@@ -30,7 +30,7 @@ I taught high school math before pivoting to data. Turns out explaining neural n
 ## 🛠️ Tech Stack
 
 **Data & Analytics**
-SQL · Python (pandas) · Power BI · Looker Studio Pro · DAX · Google BigQuery · Advanced Excel · Google Sheets · VBA · Google Apps Script
+SQL · Python (pandas) · Power BI · Looker Studio Pro · DAX · Advanced Excel · Google Sheets · VBA · Google Apps Script
 
 **AI & Automation**
 LLM APIs (Anthropic Claude · Google Gemini) · Prompt Engineering · RAG · n8n
