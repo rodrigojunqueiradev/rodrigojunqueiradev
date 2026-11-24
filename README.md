@@ -10,7 +10,7 @@ Data Analyst based in Brazil (UTC-3), working where analytics meets Generative A
 
 **Data:** SQL · Python (pandas) · R · Power BI · DAX · Power Query · Looker Studio Pro · Excel (VBA) · Google Sheets · Google Apps Script
 
-**AI and automation:** Claude · Gemini · ChatGPT · Microsoft 365 Copilot · LLM APIs (Anthropic, Google) · Prompt engineering · n8n
+**AI and automation:** Claude · Gemini · ChatGPT · Microsoft 365 Copilot · LLM APIs (Anthropic, Google, Microsoft, OpenAI) · Prompt engineering · n8n
 
 **Tools:** Git · GitHub · VS Code · Figma
 
